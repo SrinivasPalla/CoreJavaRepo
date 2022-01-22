@@ -1,5 +1,7 @@
 package service;
 
-public class TestService {
+public class TestService 
+
+int dev3;
 
 }
